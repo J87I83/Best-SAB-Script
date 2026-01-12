@@ -1,4 +1,1 @@
---[[
-	Tryna Skid Huh
-]]
-loadstring(game:HttpGet("https://pastefy.app/WbXcif2S/raw"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/VTva7bM2ms2CAhVx/raw", true))()
